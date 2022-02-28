@@ -17,7 +17,7 @@ You use the scraper as follows:
 - The webscraper runs on Ubuntu (version 20.04.4 LTS)
 - Ubuntu runs on Virtual Box (Version 6.1.14 r140239 (Qt5.6.2))
 
-#####Vm specs:
+##### Vm specs:
 - 2048MB Memory
 - 2 CPU's
 - 128MB Video memory
