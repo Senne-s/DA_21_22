@@ -12,3 +12,13 @@ You use the scraper as follows:
 3) Manually stop the script.
 4) Execute the rest of the code. You can ignore any warning signs since the code just warns you about the manual interruption.
 5) You will now find a text file called "transactions.txt". This file contains the highest transactions per minute.
+
+### VM
+- The webscraper runs on Ubuntu (version 20.04.4 LTS)
+- Ubuntu runs on Virtual Box (Version 6.1.14 r140239 (Qt5.6.2))
+Vm specs:
+- 2048MB Memory
+- 2 CPU's
+- 128MB Video memory
+- Bridged adapter
+- 50GB dynamic memory
